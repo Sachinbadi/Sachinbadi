@@ -70,11 +70,6 @@ A collection of coding projects showcasing proficiency in front-end development 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbadi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachinbadi&theme=onedark&column=7&no-frame=true" alt="Sachin's Trophies" />
-</p>
-
 ## 🎨 Interests & Hobbies
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Technologies-Enthusiast-blue?style=for-the-badge&logo=icloud" alt="Cloud Technologies" />
@@ -86,13 +81,13 @@ A collection of coding projects showcasing proficiency in front-end development 
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-b-121886226/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
   <a href="mailto:sachinbadiger0@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
   </a>
   <a href="https://github.com/Sachinbadi">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=light"/>
   </a>
 </p>
 
