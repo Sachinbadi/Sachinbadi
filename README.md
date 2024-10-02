@@ -2,12 +2,14 @@
   <img src="https://github.com/user-attachments/assets/52c9e18b-ff78-4ae0-a3d6-7dbd4b86c851" alt="Sachin Badiger" width="100%">
 </div>
 
+<h1 align="center">Hi there, I'm Sachin B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Computing+Aficionado" alt="Typing SVG" />
 </p>
 
 
-<h1 align="center">Hi there, I'm Sachin B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 ## 🚀 About Me
 I'm a passionate Full-Stack Developer and AI enthusiast, on a mission to push the boundaries of technology. Recently graduated from JSS Science and Technology University, I specialize in crafting intelligent, language-based workflows and innovative web solutions.
