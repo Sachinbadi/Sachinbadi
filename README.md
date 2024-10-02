@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+Sachin+B's+GitHub!;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Innovating+with+Agentic+Workflows" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Computing+Aficionado" alt="Typing SVG" />
+</p>
 
-# 👋 Hi there, I'm Sachin B
+<h1 align="center">Hi there, I'm Sachin B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🚀 About Me
 I'm a passionate Full-Stack Developer and AI enthusiast, on a mission to push the boundaries of technology. Recently graduated from JSS Science and Technology University, I specialize in crafting intelligent, language-based workflows and innovative web solutions.
@@ -15,15 +15,7 @@ I'm a passionate Full-Stack Developer and AI enthusiast, on a mission to push th
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,javascript,css,html&theme=light" />
 </p>
 
 ## 🌟 Featured Projects
@@ -62,16 +54,19 @@ A collection of coding projects showcasing proficiency in front-end development 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinbadi&show_icons=true&theme=radical" alt="Sachin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinbadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Sachin's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinbadi&theme=dark" alt="Sachin's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinbadi&theme=radical&hide_border=true" alt="Sachin's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbadi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🏆 Achievements
-- 🥇 Winner of [Relevant Hackathon or Competition]
-- 📜 [Relevant Certification] in [Technology/Field]
-- 🌟 [Any other notable achievement]
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachinbadi&theme=onedark&column=7&no-frame=true" alt="Sachin's Trophies" />
+</p>
 
 ## 🎨 Interests & Hobbies
 <p align="center">
@@ -84,20 +79,25 @@ A collection of coding projects showcasing proficiency in front-end development 
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-b-121886226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sachinbadiger0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/Sachinbadi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </p>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachinbadi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Sachinbadi}/count.svg" alt="Visitor Count" style="background-color: #1a1b27; padding: 10px; border-radius: 5px;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Sachinbadi/Sachinbadi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
