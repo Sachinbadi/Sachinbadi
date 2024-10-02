@@ -15,7 +15,7 @@ I'm a passionate Full-Stack Developer and AI enthusiast, on a mission to push th
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,javascript,css,html&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,javascript,css,html,nextjs,langcgain,astradb,express,gcp&theme=light" />
 </p>
 
 ## 🌟 Featured Projects
