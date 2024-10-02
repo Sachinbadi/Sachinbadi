@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Computing+Aficionado" alt="Typing SVG" />
 </p>
+<div align="center">
+  <img src="![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/52c9e18b-ff78-4ae0-a3d6-7dbd4b86c851)" alt="Sreesha Braar" width="100%">
+</div>
 
 <h1 align="center">Hi there, I'm Sachin B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -15,7 +18,7 @@ I'm a passionate Full-Stack Developer and AI enthusiast, on a mission to push th
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,js,css,html,nextjs,express,gcp,java,git,docker,cpp,anaconda,fastapi,figma,git,github,linux,php,sqlite,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,js,css,html,nextjs,express,gcp,java,git,docker,cpp,anaconda,fastapi,figma,git,github,linux,php,sqlite,tailwind,wordpress&theme=light" />
 </p>
 
 ## 🌟 Featured Projects
