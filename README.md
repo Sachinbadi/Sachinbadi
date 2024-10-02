@@ -94,10 +94,6 @@ A collection of coding projects showcasing proficiency in front-end development 
   <img src="https://profile-counter.glitch.me/{Sachinbadi}/count.svg" alt="Visitor Count" style="background-color: #1a1b27; padding: 10px; border-radius: 5px;" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Sachinbadi/Sachinbadi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
