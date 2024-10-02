@@ -1,9 +1,11 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/52c9e18b-ff78-4ae0-a3d6-7dbd4b86c851" alt="Sachin Badiger" width="100%">
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Computing+Aficionado" alt="Typing SVG" />
 </p>
-<div align="center">
-  <img src="![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/52c9e18b-ff78-4ae0-a3d6-7dbd4b86c851)" alt="Sreesha Braar" width="100%">
-</div>
+
 
 <h1 align="center">Hi there, I'm Sachin B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
